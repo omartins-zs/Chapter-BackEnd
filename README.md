@@ -1,5 +1,8 @@
 # Chapter-BackEnd
 
+Hospedado Na [Azure](https://chaptergabriel-martins.azurewebsites.net/)
+
+
 Projeto Copiado e Clonado e Adicionado no Azure Junto com Meet do Senai
 
 Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
