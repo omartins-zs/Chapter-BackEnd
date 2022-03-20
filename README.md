@@ -1,6 +1,9 @@
 # Chapter-BackEnd
 
-Hospedado Na [Azure](https://chaptergabriel-martins.azurewebsites.net/)
+### ☁ Cloud 🔝  
+<ul>
+<li><p align="left">Api Hospedada no <a href="https://chaptergabriel-martins.azurewebsites.net/"><strong>Azure</strong></a>  <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whitee"/>
+</p> </li>
 
 
 Projeto Copiado e Clonado e Adicionado no Azure Junto com Meet do Senai
