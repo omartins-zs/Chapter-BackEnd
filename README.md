@@ -1,8 +1,15 @@
 
 
 <h1 align="center">Chapter Back End</h1>
+ <div align="center">
 
+   <cite align="center">`Projeto Copiado e Clonado e Adicionado no Azure Junto com Tutorial e Meet do Senai`</cite>
+  
 
+</div>
+   <p align="center">
+👨‍💻 
+</p>
 <p align="center">
   
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -23,7 +30,6 @@
 </p> </li>
 
 
-Projeto Copiado e Clonado e Adicionado no Azure Junto com Meet do Senai
 
 Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
 
