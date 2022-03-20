@@ -1,5 +1,19 @@
 # Chapter-BackEnd
 
+<p align="center">
+  
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+  
+ 
+</p>
+
+
+
 ### ☁ Cloud 🔝  
 <ul>
 <li><p align="left">Api Hospedada no <a href="https://chaptergabriel-martins.azurewebsites.net/"><strong>Azure</strong></a>  <img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whitee"/>
