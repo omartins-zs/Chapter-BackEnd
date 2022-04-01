@@ -50,20 +50,26 @@ Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
 </div>
 <hr>
 
-
+## ❌ Correçao de Erros
  <details>
-  <summary>Solução do Erro no Nuget</summary>
+  <summary>Solução do Erro ao Instalar Pacotes do Nuget</summary>
   
-1. Ir no Explorador de Arquivos do VS
-2. Abrir na pasta dependencias
-3. Clickar com o botao direito em pacotes
-4. Ir em gerenciar pacotes do Nuget
-5. Na aba aberta Clickar na engrenagem(Configurações)
-6. Ir no icone "+"
-7. Adicionar em nome : Nuget.org
-8. Adicionar em Origem : https://api.nuget.org/v3/index.json
-9. Abrir na pasta dependencias
-10. Clickar em Ok
+ <br>
+
+<ul style="list-style-type: square;">
+			<li>Ir no Explorador de Arquivos do VS</li>
+			<li>Abrir na pasta dependencias</li>
+			<li>Clickar com o botao direito em pacotes</li>
+ 		<li>Ir em gerenciar pacotes do Nuget</li>
+			<li>Na aba aberta Clickar na engrenagem(Configurações)</li>
+			<li>Ir no icone "+"</li>
+			<li>Adicionar em nome : Nuget.org</li>
+			<li>Adicionar em Origem : https://api.nuget.org/v3/index.json</li>
+			<li>Abrir na pasta dependencias</li>
+			<li>Clickar em Ok</li>
+
+</ul>
+
   
 </details>
 
