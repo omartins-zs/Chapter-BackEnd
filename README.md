@@ -73,6 +73,6 @@ Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
   
 </details>
 
-
+SQL Server não está em execução [Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server](https://cursos.alura.com.br/forum/topico-erro-de-rede-ou-especifico-a-instancia-ao-estabelecer-conexao-com-o-sql-server-89976)
 
 
