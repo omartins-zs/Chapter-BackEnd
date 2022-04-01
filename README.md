@@ -51,9 +51,9 @@ Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
 <hr>
 
 
-### Solução do Erro no Nuget 
-
-
+ <details>
+  <summary>Solução do Erro no Nuget</summary>
+  
 1. Ir no Explorador de Arquivos do VS
 2. Abrir na pasta dependencias
 3. Clickar com o botao direito em pacotes
@@ -64,6 +64,8 @@ Local PC : E:\Programação\Senai_Programacao_Back-End\UC9-SA3\Chapter\Chapter
 8. Adicionar em Origem : https://api.nuget.org/v3/index.json
 9. Abrir na pasta dependencias
 10. Clickar em Ok
+  
+</details>
 
 
 
